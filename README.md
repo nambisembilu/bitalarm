@@ -16,7 +16,7 @@ Simple Alarm Application (Android Only)
 - [:heavy_check_mark:] Ring Notification
 
 ## How To Use
-1. Download APK [Here](bitalarm.apk)
+1. Download APK [Here](https://drive.google.com/file/d/1FBX-d_YPMiq3ioOMAPyRz4IpRW6j5smh/view?usp=sharing)
 2. Install on local device
 3. Done
 
