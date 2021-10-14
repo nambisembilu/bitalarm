@@ -403,7 +403,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return _uiHelper.willScopeScaffold(
-      onWillPop: () {},
+      onWillPop: onBackExit,
       child: Scaffold(
         key: _scaffoldKey,
         backgroundColor: _uiHelper.bgColor,
