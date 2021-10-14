@@ -7,9 +7,7 @@ Simple Alarm Application (Android Only)
 - Available Space 30MB
 
 ### Screen Shot
-<img src="screenshot/splash.jpg" alt="Splash" width="100"/>
-<img src="screenshot/home.jpg" alt="Home" width="100"/>
-<img src="screenshot/detail.jpg" alt="Detail" width="100"/>
+![alt text](screenshot/allscreen.png)
 
 ### Feature
 - [:heavy_check_mark:] Create/Delete alarm
